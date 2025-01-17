@@ -1,0 +1,37 @@
+---
+title: "FAQ"
+---
+
+## How do I use my mobile device to scan a document to a pdf?
+
+If you have an iPhone, you can use the Notes app to scan a document to a PDF. To do this, follow the following steps:
+
+-   Open the Notes app
+
+-   Create a new note and name it.
+
+-   Tap the camera icon and select "Scan Documents". I suggest you use the manual capture option as this allows you to capture only once the camera is in focus.
+
+-   Position your phone over the document and tap the shutter button. Make sure the camera is directly over the document and is in focus.
+
+-   Continue to the next page if there are multiple pages.
+
+-   Tap "Save" when you are finished scanning all the pages.
+
+If you have an Android device, you can use the Google Drive app to scan a document to a PDF. To do this, follow the following steps:
+
+-   Open the Google Drive app
+
+-   Tap the "+" icon in the bottom right corner
+
+-   Tap "Scan"
+
+-   Position your phone over the document and tap the shutter button. Make sure the camera is directly over the document and is in focus.
+
+-   Continue to the next page if there are multiple pages.
+
+-   Tap the checkmark when you are finished scanning all the pages.
+
+```{=html}
+<iframe width="700" height="394" src="https://www.youtube.com/embed/HNCcYtfAtTE" title="How to Scan Documents with your iPhone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```

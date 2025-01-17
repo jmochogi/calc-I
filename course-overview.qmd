@@ -1,0 +1,41 @@
+---
+title: "About the Course"
+---
+## Corse Format and Philosophy
+This course will be taught using a flipped model. A flipped classroom is one in which students engage with the course material before class. Class time is spent addressing any questions that students may have about the material, delving deeper into the material, and applying the material.\
+Consistent with the above philosophy, majority of class time will be spent working on problems and/or activities individually or collaboratively, sharing your ideas/solutions, asking and investigating questions. Research shows that some of the deepest learning comes out of analyzing misconceptions and methods that don’t work, so we will strive to make failures productive. I may give mini–lectures to set the context for the class activities, but my main role will be to support and facilitate your deeper understanding of the course content. This course will place a lot of emphasis on real-life applications of statistics and will, from time to time, require you to collect data from the real world and use statistical concepts learned to draw useful insights.
+Here are some benefits associated with using Flipped Classroom Models:
+
+- ***Independent Learning Skills***: not everything you learn in school will be applicable directly in your job or in the real world. In most cases, you need to transfer your knowledge to new contexts and that often involves new learning (often on your own). A flipped class model sets you up for success as an independent learner. You will learn how to learn on your own.
+-  ***Active Learning ***: In a flipped classroom, you will be actively engaged in the learning process. You will be asked to think, to write, to discuss, to solve problems, to analyze, to create, to evaluate, and to apply. This is a much more effective way to learn than passively listening to a lecture.
+-  ***Catching up ***: If you miss a given class and you had completed your CPA, that means you will still have some understanding of the basic ideas. You do not miss out entirely and that means catching up is easier.
+
+
+
+## Course Objectives
+
+Upon successful completion of this course, students will be able to:
+
+-   Demonstrate an understanding of data and its types, and various data collection methods.
+-  Choose and use various basic statistical tools (numerical and visual) for summarizing data.
+-   Develop basic proficiency in using statistical software (e.g., Tinker plots) for data analysis.
+-   Demonstrate a basic understanding of the statistical inference techniques including hypothesis testing and parameter estimation.
+-   Use simulation-based methods to perform statistical inference using real-world data set.
+-   Apply statistical concepts learned to design and implement a study, and write a report to communicate insights to non-technical audiences.
+
+## Meeting Times & Location
+
+| Day       | Room/Hall         | Time             |
+|-----------|:-----------------:|:----------------:|
+| Monday    | Williams Hall 317 | 11:00 - 11:50 am |
+| Wednesday | Williams Hall 317 | 11:00 - 11:50 am |
+| Friday    | Williams Hall 317 | 11:00 - 11:50 am |
+
+
+## Prerequisites
+
+Prerequisites include math placement in group 3 or higher, math placement assessment score of 46 or greater, or completion of [MATH 10000](https://catalog.ithaca.edu/undergrad/coursesaz/math/) or [MATH 18000](https://catalog.ithaca.edu/undergrad/coursesaz/math/) with a grade of C- or better. (F,S,Y).
+
+## Workload Expectations
+
+This is a 3-credit course. Credit is earned at Ithaca College in credit hours as measured by the Carnegie unit. The Carnegie unit is defined as one hour of classroom instruction and two hours of assignments outside the classroom, for a period of 15 weeks for each unit (credit).
