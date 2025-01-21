@@ -67,26 +67,26 @@ website:
           - href: course-faq.qmd
             text: FAQ
       
-      - section: "Homework"
-        contents:
-          - href: homework/hw1.qmd
-            text: Homework 1
-          - href: homework/hw2.qmd
-            text: Homework 2
-          - href: homework/hw3.qmd
-            text: Homework 3
-          - href: homework/hw4.qmd
-            text: Homework 4            
+    #  - section: "Homework"
+     #   contents:
+      #    - href: homework/hw1.qmd
+       #     text: Homework 1
+        #  - href: homework/hw2.qmd
+         #   text: Homework 2
+          #- href: homework/hw3.qmd
+           # text: Homework 3
+          #- href: homework/hw4.qmd
+           # text: Homework 4            
           #- href: homework/hw5.qmd
            # text: Homework 5
             
             
-      - section: "Problem Posing"
-        contents:
-          - href: problem-posing/pp1.qmd
-            text: Problem Posing 1
-          - href: problem-posing/pp2.qmd
-            text: Problem Posing 2
+     # - section: "Problem Posing"
+      #  contents:
+       #   - href: problem-posing/pp1.qmd
+        #    text: Problem Posing 1
+         # - href: problem-posing/pp2.qmd
+          #  text: Problem Posing 2
             
       - section: "Projects"
         contents:
