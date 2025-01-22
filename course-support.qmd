@@ -8,7 +8,7 @@ There are various resources available to help you succeed in this course and oth
 
 <!--This is how you do an internal linking: You can find a list of everyone's office hours [here](/course-team.html).-->
 
-I will be available during open hours (Mon & Wed 1.00 - 2.00 pm) to answer questions or concerns that you may have in the course. You can simply walk in during the stated times above. Even if you don't have any question, you can just stop by to say hi. If these times don't work for you, please click [this link](https://calendly.com/jmochogi/20min?month=2024-08) to see more options or email me directly. Open hours may be held in-person or virtually depending on your preference and the circumstances of the day. Below are the zoom link and password for virtual meetings:
+I will be available during open hours (Mon 1.00 - 2.00 pm & Fri 10.00 - 11.00 am) to answer questions or concerns that you may have in the course. You can simply walk in during the stated times above. Even if you don't have any question, you can just stop by to say hi. If these times don't work for you, please click [this link](https://calendly.com/jmochogi/20min?month=2024-08) to see more options or email me directly. Open hours may be held in-person or virtually depending on your preference and the circumstances of the day. Below are the zoom link and password for virtual meetings:
 
 **Zoom Link:** [click here](https://ithaca.zoom.us/j/3364817575?pwd=WlA1S3hJWWZNTTFoWUVaZlA1clhtdz09)
 
@@ -26,7 +26,7 @@ Have a question that can’t wait for office hours? Prefer to write out your que
 
 Please refrain from emailing any course content questions (those should go to Canvas Discussion forums), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g., illness, accommodations, etc.). My email address is [jgeteregechi\@ithaca.edu](mailto:jgeteregechi@ithaca.edu).
 
-If there is a question that's not appropriate for the public forum, you are welcome to email me directly. **If you email me, please include "MATH 246" in the subject line.** Barring extenuating circumstances, I will respond to MATH 246 emails within 48 hours Monday - Friday. Response time may be slower for emails sent Friday evening - Sunday. If I take too long, please reach out again or talk to me before or after class as I may have missed your email.
+If there is a question that's not appropriate for the public forum, you are welcome to email me directly. **If you email me, please include "MATH 108" in the subject line.** Barring extenuating circumstances, I will respond to MATH 108 emails within 48 hours Monday - Friday. Response time may be slower for emails sent Friday evening - Sunday. If I take too long, please reach out again or talk to me before or after class as I may have missed your email.
 
 ## Tutoring and Academic Enrichment Services
 
@@ -48,11 +48,7 @@ If your mental health concerns and/or stressful events negatively affect your da
 
 -   **Software subscriptions:**
 
-    -   **RStudio:** RStudio cloud ([posit cloud](https://posit.cloud/)) is available for a \$5 per month subscription for students. I may be able to have funds to sign up about 16 students this semester. The criteria is to have at least two group members with a full licence for the semester. Although the software has a free version, it allows only 25 hours of use per month. The positive side is that it does come with all the functionality that we will need for the course.
-    -   **GitHub:** You will need to sign up for a free [GitHub](https://education.github.com/) account. We will not use GitHub as much but you will need to sign up for a student developer pack to get access to GitHub copilot for free as a student. Be sure to use your Ithaca College email while signing up.
-    -   **GitHub Copilot:** GitHub Copilot is free for students. You will need to sign up for the student developer pack before you sign up for a free GitHub copilot account.
-
-    The detailed instructions for signing up for GitHub copilot are available on [this site](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279)
+    -   The softwares to be used in the course are all free of charge.
 
 ## **Assistance with Zoom or Canvas**
 
