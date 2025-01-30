@@ -2,7 +2,7 @@
 title: "MATH 108 - Applied Calculus"
 subtitle: "Spring 2025"
 format:
-  #html: default
+  html: default
   pdf: default
 ---
 
