@@ -39,7 +39,7 @@ If you have an Android device, you can use the Google Drive app to scan a docume
 
 ## How do I embed a picture in canvas discussion board?
 
-If you do not embed a picture, someone will have to download it in order to see it. This is not convenient and can be time wasting. Watch the following video to learn how to embed a picture:
+If you do not embed a picture, someone will have to download it in order to see it. This is not convenient and can be time wasting especially if you have to do it multiple times. Watch the following video to learn how to embed a picture:
 
 ```{=html}
 <iframe width="700" height="394" src="https://www.youtube.com/embed/V1mNT0udcZY" title="How to Embed an Image into a Canvas Discussion Board" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
