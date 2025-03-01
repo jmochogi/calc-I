@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – MATH 155</title>
+<title>Exam 1 Review – MATH 155</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-d9ea220ee908cb7322d1b5aeb522d8d4.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d9ea220ee908cb7322d1b5aeb522d8d4.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5b38446bab4305e7f187b3a68b4b2995.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-a0c9525d54c2096b757e570632438d2b.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../exam-review/exam-2-review.qmd" rel="next">
+<link href="../project/final_project.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-d9ea220ee908cb7322d1b5aeb522d8d4.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d9ea220ee908cb7322d1b5aeb522d8d4.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-5b38446bab4305e7f187b3a68b4b2995.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-a0c9525d54c2096b757e570632438d2b.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -68,16 +70,46 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="About – MATH 155">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Exam 1 Review – MATH 155">
 <meta property="og:description" content="Homepage for MATH 155 - Basic Statistical Reasoning, Spring 2025.">
+<meta property="og:image" content="https://jmochogi.github.io/basic-stat/exam-review/exam-1-review_files/figure-html/unnamed-chunk-1-1.png">
 <meta property="og:site_name" content="MATH 155">
-<meta name="twitter:title" content="About – MATH 155">
+<meta property="og:image:height" content="960">
+<meta property="og:image:width" content="1344">
+<meta name="twitter:title" content="Exam 1 Review – MATH 155">
 <meta name="twitter:description" content="Homepage for MATH 155 - Basic Statistical Reasoning, Spring 2025.">
-<meta name="twitter:image" content="https://jmochogi.github.io/basic-stat/img/twitter-card.png">
+<meta name="twitter:image" content="https://jmochogi.github.io/basic-stat/exam-review/img/twitter-card.png">
 <meta name="twitter:creator" content="@jmochogi">
-<meta name="twitter:image-height" content="418">
-<meta name="twitter:image-width" content="800">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -90,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">About</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../exam-review/exam-1-review.html">Exam review</a></li><li class="breadcrumb-item"><a href="../exam-review/exam-1-review.html">Exam 1</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -104,8 +136,8 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="./img/logo.jpeg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../img/logo.jpeg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://github.com/jmochogi/finite-math" title="GitHub repository" class="quarto-navigation-tool px-1" aria-label="GitHub repository"><i class="bi bi-github"></i></a>
@@ -134,31 +166,31 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-overview.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-syllabus.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-syllabus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Syllabus</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-support.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-support.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Support</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Schedule</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-faq.html" class="sidebar-item-text sidebar-link">
+  <a href="../course-faq.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">FAQ</span></a>
   </div>
 </li>
@@ -175,13 +207,13 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./project/first_project.html" class="sidebar-item-text sidebar-link">
+  <a href="../project/first_project.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Project 1</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./project/final_project.html" class="sidebar-item-text sidebar-link">
+  <a href="../project/final_project.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Project 2</span></a>
   </div>
 </li>
@@ -189,22 +221,22 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
  <span class="menu-text">Exam review</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./exam-review/exam-1-review.html" class="sidebar-item-text sidebar-link">
+  <a href="../exam-review/exam-1-review.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Exam 1</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./exam-review/exam-2-review.qmd" class="sidebar-item-text sidebar-link">
+  <a href="../exam-review/exam-2-review.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Exam 2</span></a>
   </div>
 </li>
@@ -221,13 +253,13 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-downloads/hw.qmd" class="sidebar-item-text sidebar-link">
+  <a href="../course-downloads/hw.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Homework</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./course-downloads/templates.qmd" class="sidebar-item-text sidebar-link">
+  <a href="../course-downloads/templates.qmd" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Templates</span></a>
   </div>
 </li>
@@ -238,15 +270,24 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#question-1" id="toc-question-1" class="nav-link active" data-scroll-target="#question-1">Question 1</a></li>
+  <li><a href="#question-2" id="toc-question-2" class="nav-link" data-scroll-target="#question-2">Question 2</a></li>
+  <li><a href="#question-3" id="toc-question-3" class="nav-link" data-scroll-target="#question-3">Question 3</a></li>
+  <li><a href="#question-4" id="toc-question-4" class="nav-link" data-scroll-target="#question-4">Question 4</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/jmochogi/basic-stat.git/edit/main/exam-review/exam-1-review.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jmochogi/basic-stat.git/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="exam-1-review.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../exam-review/exam-1-review.html">Exam review</a></li><li class="breadcrumb-item"><a href="../exam-review/exam-1-review.html">Exam 1</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Exam 1 Review</h1>
 </div>
 
 
@@ -263,9 +304,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>About this site</p>
+<section id="question-1" class="level2">
+<h2 class="anchored" data-anchor-id="question-1">Question 1</h2>
+<p>The piecewise function below represents the shipping charges, <span class="math inline">\(C(x)\)</span>, for packages based on the package weight, <span class="math inline">\(x\)</span> (in pounds).</p>
+<p><span class="math display">\[C(x)=\begin{cases} 4.50, &amp;  0 &lt; x \leq 3 \\ 0.5(x-3)+4.50,  &amp;  3 &lt; x \le 10 \\ 0.5(x-10)^2+7.50, &amp;  10 &lt; x \leq 12. \end{cases}\]</span></p>
+<ol type="a">
+<li><p>Find <span class="math inline">\(C(2)\)</span> and interpret its meaning in context.</p></li>
+<li><p>Find <span class="math inline">\(C(5)\)</span> and interpret its meaning in context.</p></li>
+<li><p>Use a table to find the left limit of the function at <span class="math inline">\(x=3\)</span> (i.e., <span class="math inline">\(\lim\limits_{x \to 3^-} C(x)\)</span>).</p></li>
+<li><p>Use a table to find the right limit of the function at <span class="math inline">\(x=3\)</span> (i.e., <span class="math inline">\(\lim\limits_{x \to 3^+} C(x)\)</span>).</p></li>
+<li><p>Based on your work in parts (c) and (d), state whether the limit <span class="math inline">\(\lim\limits_{x \to 3} C(x)\)</span> exists and explain why. If the limit exists, find its value.</p></li>
+</ol>
+</section>
+<section id="question-2" class="level2">
+<h2 class="anchored" data-anchor-id="question-2">Question 2</h2>
+<p>The daily receipts <span class="math inline">\(f(t)\)</span> in millions of dollars of the movie “The Hunger Games” after its opening on 23 March 2012 had an exponential model shown below:</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="exam-1-review_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<ol type="a">
+<li><p>Estimate the value of <span class="math inline">\(f(20)\)</span> and state its meaning in context.</p></li>
+<li><p>Without doing any calculations, state whether you expect <span class="math inline">\(f(25)\)</span> to be greater or less than <span class="math inline">\(f(30)\)</span>. Explain how you know.</p></li>
+<li><p>Without doing any calculations, state whether you expect the average rate of change between <span class="math inline">\(t=15\)</span> and <span class="math inline">\(t=25\)</span> to be greater or less than the average rate of change between <span class="math inline">\(t=40\)</span> and <span class="math inline">\(t=80.\)</span> Explain how you know.</p></li>
+<li><p>Without doing any calculations, state whether you expect <span class="math inline">\(f'(30)\)</span> to be negative or positive. Explain how you know.</p></li>
+<li><p>Without doing any calculations, state whether you expect <span class="math inline">\(f''(30)\)</span> to be positive or negative. Explain how you know.</p></li>
+</ol>
+</section>
+<section id="question-3" class="level2">
+<h2 class="anchored" data-anchor-id="question-3">Question 3</h2>
+<p>A climate model predicts that the average global temperature rise (in degrees Celsius) above pre-industrial levels can be approximated by the function <span class="math inline">\(T(t)=0.008t^3−0.06t^2+0.5t+0.2\)</span>, where <span class="math inline">\(t\)</span> represents time in decades since 2000.</p>
+<ol type="a">
+<li><p>Find <span class="math inline">\(T(2)\)</span> and interpret its meaning in context.</p></li>
+<li><p>Estimate the <em>average rate of change</em> in the global temperature rise between <span class="math inline">\(t=0\)</span> and <span class="math inline">\(t=1\)</span>. Include units in your answer.</p></li>
+<li><p>The expression below is for finding the <em>instantaneous rate of change</em> in the global temperature rise at <span class="math inline">\(t=1\)</span> using the limit definition of the derivative. Write down the next step. No need to evaluate the limit.</p></li>
+</ol>
+<p><span class="math display">\[T'(1)=\lim_{h \to 0} \frac{T(1+h)-T(1)}{h}\]</span></p>
+<ol start="4" type="a">
+<li><p>Use the appropriate derivative rule(s) to find the function <span class="math inline">\(T'(t)\)</span> then use it to evaluate <span class="math inline">\(T'(1)\)</span>. Interpret the meaning of <span class="math inline">\(T'(1)\)</span> in context.</p></li>
+<li><p>Calculate <span class="math inline">\(T''(3)\)</span> and interpret its meaning in context.</p></li>
+</ol>
+</section>
+<section id="question-4" class="level2">
+<h2 class="anchored" data-anchor-id="question-4">Question 4</h2>
+<p>Use derivative rules to find the derivative function for each of the following functions:</p>
+<ol type="a">
+<li><p><span class="math inline">\(f(x)=3x^2-4x+5\)</span></p></li>
+<li><p><span class="math inline">\(g(x)=\frac{x^5+x^3}{x^2}\)</span></p></li>
+<li><p><span class="math inline">\(h(x)=\sqrt{x}+x^2\)</span></p></li>
+<li><p><span class="math inline">\(k(x)=5^x+x^5\)</span></p></li>
+<li><p><span class="math inline">\(q(x)= e^x + 5x^4\)</span></p></li>
+</ol>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -829,6 +926,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../project/final_project.html" class="pagination-link" aria-label="Project 2">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Project 2</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../exam-review/exam-2-review.qmd" class="pagination-link" aria-label="Exam 2">
+        <span class="nav-page-text">Exam 2</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -837,7 +946,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/jmochogi/basic-stat.git/edit/main/about.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jmochogi/basic-stat.git/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jmochogi/basic-stat.git/edit/main/exam-review/exam-1-review.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/jmochogi/basic-stat.git/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
