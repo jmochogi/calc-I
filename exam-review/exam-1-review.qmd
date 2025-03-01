@@ -1,27 +1,35 @@
 ---
 title: "Exam 1 Review"
 format:
-  html: default
+  #html: default
   pdf: default
 ---
 
 ## Question 1
 
-The piecewise function below represents the shipping charges, $C(x)$, for packages based on the package weight, $x$ (in pounds).
+The piecewise-defined function below represents the shipping charges, $C(x)$, for packages based on the package weight, $x$ (in pounds).
 
 $$C(x)=\begin{cases} 4.50, &  0 < x \leq 3 \\ 0.5(x-3)+4.50,  &  3 < x \le 10 \\ 0.5(x-10)^2+7.50, &  10 < x \leq 12. \end{cases}$$
 
-a. Find $C(2)$ and interpret its meaning in context.
+a.  Find $C(2)$ and interpret its meaning in context. 
 
-b. Find $C(5)$ and interpret its meaning in context.
+\vspace{2cm}
 
-c. Use a table to find the left limit of the function at $x=3$ (i.e., $\lim\limits_{x \to 3^-} C(x)$).
+b.  Find $C(5)$ and interpret its meaning in context. 
 
+\vspace{2cm}
 
-d. Use a table to find the right limit of the function at $x=3$ (i.e., $\lim\limits_{x \to 3^+} C(x)$).
+c.  Use a table to find the left limit of the function at $x=3$ (i.e., $\lim\limits_{x \to 3^-} C(x)$). 
 
-e. Based on your work in parts (c) and (d), state whether the limit $\lim\limits_{x \to 3} C(x)$ exists and explain why. If the limit exists, find its value.
+\vspace{4cm}
 
+d.  Use a table to find the right limit of the function at $x=3$ (i.e., $\lim\limits_{x \to 3^+} C(x)$). 
+
+\vspace{4cm}
+
+e.  Based on your work in parts (c) and (d), state whether the limit $\lim\limits_{x \to 3} C(x)$ exists and explain why. If the limit exists, find its value. 
+
+\newpage
 
 ## Question 2
 
@@ -33,46 +41,32 @@ R <- 37.855 * 0.959^t
 plot(t, R, type = "l", xlab = "Days after opening", ylab = "Daily receipts in millions of dollars")
 ```
 
-a.  Estimate the value of $f(20)$ and state its meaning in context.
-
-b.  Without doing any calculations, state whether you expect $f(25)$ to be greater or less than $f(30)$. Explain how you know.
-
-c.  Without doing any calculations, state whether you expect the average rate of change between $t=15$ and $t=25$ to be greater or less than the average rate of change between $t=40$ and $t=80.$ Explain how you know.
-
-d.  Without doing any calculations, state whether you expect $f'(30)$ to be negative or positive. Explain how you know.
-
-e.  Without doing any calculations, state whether you expect $f''(30)$ to be positive or negative. Explain how you know.
+a.  Estimate the value of $f(20)$ and state its meaning in context. \vspace{4cm}
+b.  Without doing any calculations, state whether you expect $f(25)$ to be greater or less than $f(30)$. Explain how you know. \newpage
+c.  Without doing any calculations, state whether you expect the average rate of change between $t=15$ and $t=25$ to be greater or less than the average rate of change between $t=40$ and $t=80.$ Explain how you know. \vspace{4cm}
+d.  Without doing any calculations, state whether you expect $f'(30)$ to be negative or positive. Explain how you know. \vspace{4cm}
+e.  Without doing any calculations, state whether you expect $f''(30)$ to be positive or negative. Explain how you know. \newpage
 
 ## Question 3
 
 A climate model predicts that the average global temperature rise (in degrees Celsius) above pre-industrial levels can be approximated by the function $T(t)=0.008t^3−0.06t^2+0.5t+0.2$, where $t$ represents time in decades since 2000.
 
-a. Find $T(2)$ and interpret its meaning in context.  
+a.  Find $T(2)$ and interpret its meaning in context. \vspace{3cm}
+b.  Estimate the *average rate of change* in the global temperature rise between $t=0$ and $t=1$. Include units in your answer. \vspace{5cm}
+c.  The expression below is for finding the *instantaneous rate of change* in the global temperature rise at $t=1$ using the limit definition of the derivative. Write down the next step. No need to evaluate the limit.
 
-b. Estimate the *average rate of change* in the global temperature rise between $t=0$ and $t=1$. Include units in your answer.
+$$T'(1)=\lim_{h \to 0} \frac{T(1+h)-T(1)}{h}$$ \vspace{4cm} 
 
-c. The expression below is for finding the *instantaneous rate of change* in the global temperature rise at $t=1$ using the limit definition of the derivative. Write down the next step. No need to evaluate the limit.
+d. Use the appropriate derivative rule(s) to find the function $T'(t)$ then use it to evaluate $T'(1)$. Interpret the meaning of $T'(1)$ in context. \vspace{4cm} 
 
-$$T'(1)=\lim_{h \to 0} \frac{T(1+h)-T(1)}{h}$$
-
-d. Use the appropriate derivative rule(s) to find the function $T'(t)$ then use it to evaluate $T'(1)$. Interpret the meaning of $T'(1)$ in context.
-
-e. Calculate $T''(3)$ and interpret its meaning in context.
-
-
+e. Calculate $T''(3)$ and interpret its meaning in context. \newpage
 
 ## Question 4
 
 Use derivative rules to find the derivative function for each of the following functions:
 
-a. $f(x)=3x^2-4x+5$
-
-b. $g(x)=\frac{x^5+x^3}{x^2}$
-
-c. $h(x)=\sqrt{x}+x^2$
-
-d. $k(x)=5^x+x^5$
-
-e. $q(x)= e^x + 5x^4$
-
-
+a.  $f(x)=3x^2-4x+5$ \vspace{3cm}
+b.  $g(x)=\frac{x^5+x^3}{x^2}$ \vspace{3cm}
+c.  $h(x)=\sqrt{x}+x^2$ \vspace{3cm}
+d.  $k(x)=5^x+x^5$ \vspace{3cm}
+e.  $q(x)= e^x + 5x^4$

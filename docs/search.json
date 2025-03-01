@@ -207,7 +207,7 @@
     "href": "exam-review/exam-1-review.html",
     "title": "Exam 1 Review",
     "section": "",
-    "text": "The piecewise function below represents the shipping charges, \\(C(x)\\), for packages based on the package weight, \\(x\\) (in pounds).\n\\[C(x)=\\begin{cases} 4.50, &  0 &lt; x \\leq 3 \\\\ 0.5(x-3)+4.50,  &  3 &lt; x \\le 10 \\\\ 0.5(x-10)^2+7.50, &  10 &lt; x \\leq 12. \\end{cases}\\]\n\nFind \\(C(2)\\) and interpret its meaning in context.\nFind \\(C(5)\\) and interpret its meaning in context.\nUse a table to find the left limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^-} C(x)\\)).\nUse a table to find the right limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^+} C(x)\\)).\nBased on your work in parts (c) and (d), state whether the limit \\(\\lim\\limits_{x \\to 3} C(x)\\) exists and explain why. If the limit exists, find its value.",
+    "text": "The piecewise-defined function below represents the shipping charges, \\(C(x)\\), for packages based on the package weight, \\(x\\) (in pounds).\n\\[C(x)=\\begin{cases} 4.50, &  0 &lt; x \\leq 3 \\\\ 0.5(x-3)+4.50,  &  3 &lt; x \\le 10 \\\\ 0.5(x-10)^2+7.50, &  10 &lt; x \\leq 12. \\end{cases}\\]\n\nFind \\(C(2)\\) and interpret its meaning in context. \nFind \\(C(5)\\) and interpret its meaning in context. \nUse a table to find the left limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^-} C(x)\\)). \nUse a table to find the right limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^+} C(x)\\)). \nBased on your work in parts (c) and (d), state whether the limit \\(\\lim\\limits_{x \\to 3} C(x)\\) exists and explain why. If the limit exists, find its value.",
     "crumbs": [
       "Exam review",
       "Exam 1"
@@ -218,7 +218,7 @@
     "href": "exam-review/exam-1-review.html#question-1",
     "title": "Exam 1 Review",
     "section": "",
-    "text": "The piecewise function below represents the shipping charges, \\(C(x)\\), for packages based on the package weight, \\(x\\) (in pounds).\n\\[C(x)=\\begin{cases} 4.50, &  0 &lt; x \\leq 3 \\\\ 0.5(x-3)+4.50,  &  3 &lt; x \\le 10 \\\\ 0.5(x-10)^2+7.50, &  10 &lt; x \\leq 12. \\end{cases}\\]\n\nFind \\(C(2)\\) and interpret its meaning in context.\nFind \\(C(5)\\) and interpret its meaning in context.\nUse a table to find the left limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^-} C(x)\\)).\nUse a table to find the right limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^+} C(x)\\)).\nBased on your work in parts (c) and (d), state whether the limit \\(\\lim\\limits_{x \\to 3} C(x)\\) exists and explain why. If the limit exists, find its value.",
+    "text": "The piecewise-defined function below represents the shipping charges, \\(C(x)\\), for packages based on the package weight, \\(x\\) (in pounds).\n\\[C(x)=\\begin{cases} 4.50, &  0 &lt; x \\leq 3 \\\\ 0.5(x-3)+4.50,  &  3 &lt; x \\le 10 \\\\ 0.5(x-10)^2+7.50, &  10 &lt; x \\leq 12. \\end{cases}\\]\n\nFind \\(C(2)\\) and interpret its meaning in context. \nFind \\(C(5)\\) and interpret its meaning in context. \nUse a table to find the left limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^-} C(x)\\)). \nUse a table to find the right limit of the function at \\(x=3\\) (i.e., \\(\\lim\\limits_{x \\to 3^+} C(x)\\)). \nBased on your work in parts (c) and (d), state whether the limit \\(\\lim\\limits_{x \\to 3} C(x)\\) exists and explain why. If the limit exists, find its value.",
     "crumbs": [
       "Exam review",
       "Exam 1"
@@ -229,7 +229,7 @@
     "href": "exam-review/exam-1-review.html#question-2",
     "title": "Exam 1 Review",
     "section": "Question 2",
-    "text": "Question 2\nThe daily receipts \\(f(t)\\) in millions of dollars of the movie “The Hunger Games” after its opening on 23 March 2012 had an exponential model shown below:\n\n\n\n\n\n\n\n\n\n\nEstimate the value of \\(f(20)\\) and state its meaning in context.\nWithout doing any calculations, state whether you expect \\(f(25)\\) to be greater or less than \\(f(30)\\). Explain how you know.\nWithout doing any calculations, state whether you expect the average rate of change between \\(t=15\\) and \\(t=25\\) to be greater or less than the average rate of change between \\(t=40\\) and \\(t=80.\\) Explain how you know.\nWithout doing any calculations, state whether you expect \\(f'(30)\\) to be negative or positive. Explain how you know.\nWithout doing any calculations, state whether you expect \\(f''(30)\\) to be positive or negative. Explain how you know.",
+    "text": "Question 2\nThe daily receipts \\(f(t)\\) in millions of dollars of the movie “The Hunger Games” after its opening on 23 March 2012 had an exponential model shown below:\n\n\n\n\n\n\n\n\n\n\nEstimate the value of \\(f(20)\\) and state its meaning in context. \nWithout doing any calculations, state whether you expect \\(f(25)\\) to be greater or less than \\(f(30)\\). Explain how you know. \nWithout doing any calculations, state whether you expect the average rate of change between \\(t=15\\) and \\(t=25\\) to be greater or less than the average rate of change between \\(t=40\\) and \\(t=80.\\) Explain how you know. \nWithout doing any calculations, state whether you expect \\(f'(30)\\) to be negative or positive. Explain how you know. \nWithout doing any calculations, state whether you expect \\(f''(30)\\) to be positive or negative. Explain how you know.",
     "crumbs": [
       "Exam review",
       "Exam 1"
@@ -240,7 +240,7 @@
     "href": "exam-review/exam-1-review.html#question-3",
     "title": "Exam 1 Review",
     "section": "Question 3",
-    "text": "Question 3\nA climate model predicts that the average global temperature rise (in degrees Celsius) above pre-industrial levels can be approximated by the function \\(T(t)=0.008t^3−0.06t^2+0.5t+0.2\\), where \\(t\\) represents time in decades since 2000.\n\nFind \\(T(2)\\) and interpret its meaning in context.\nEstimate the average rate of change in the global temperature rise between \\(t=0\\) and \\(t=1\\). Include units in your answer.\nThe expression below is for finding the instantaneous rate of change in the global temperature rise at \\(t=1\\) using the limit definition of the derivative. Write down the next step. No need to evaluate the limit.\n\n\\[T'(1)=\\lim_{h \\to 0} \\frac{T(1+h)-T(1)}{h}\\]\n\nUse the appropriate derivative rule(s) to find the function \\(T'(t)\\) then use it to evaluate \\(T'(1)\\). Interpret the meaning of \\(T'(1)\\) in context.\nCalculate \\(T''(3)\\) and interpret its meaning in context.",
+    "text": "Question 3\nA climate model predicts that the average global temperature rise (in degrees Celsius) above pre-industrial levels can be approximated by the function \\(T(t)=0.008t^3−0.06t^2+0.5t+0.2\\), where \\(t\\) represents time in decades since 2000.\n\nFind \\(T(2)\\) and interpret its meaning in context. \nEstimate the average rate of change in the global temperature rise between \\(t=0\\) and \\(t=1\\). Include units in your answer. \nThe expression below is for finding the instantaneous rate of change in the global temperature rise at \\(t=1\\) using the limit definition of the derivative. Write down the next step. No need to evaluate the limit.\n\n\\[T'(1)=\\lim_{h \\to 0} \\frac{T(1+h)-T(1)}{h}\\] d. Use the appropriate derivative rule(s) to find the function \\(T'(t)\\) then use it to evaluate \\(T'(1)\\). Interpret the meaning of \\(T'(1)\\) in context. e. Calculate \\(T''(3)\\) and interpret its meaning in context.",
     "crumbs": [
       "Exam review",
       "Exam 1"
@@ -251,7 +251,7 @@
     "href": "exam-review/exam-1-review.html#question-4",
     "title": "Exam 1 Review",
     "section": "Question 4",
-    "text": "Question 4\nUse derivative rules to find the derivative function for each of the following functions:\n\n\\(f(x)=3x^2-4x+5\\)\n\\(g(x)=\\frac{x^5+x^3}{x^2}\\)\n\\(h(x)=\\sqrt{x}+x^2\\)\n\\(k(x)=5^x+x^5\\)\n\\(q(x)= e^x + 5x^4\\)",
+    "text": "Question 4\nUse derivative rules to find the derivative function for each of the following functions:\n\n\\(f(x)=3x^2-4x+5\\) \n\\(g(x)=\\frac{x^5+x^3}{x^2}\\) \n\\(h(x)=\\sqrt{x}+x^2\\) \n\\(k(x)=5^x+x^5\\) \n\\(q(x)= e^x + 5x^4\\)",
     "crumbs": [
       "Exam review",
       "Exam 1"
