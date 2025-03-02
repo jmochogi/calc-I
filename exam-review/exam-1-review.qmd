@@ -1,13 +1,13 @@
 ---
 title: "Exam 1 Review"
 format:
-  #html: default
+  html: default
   pdf: default
 ---
 
 ## Question 1
 
-The piecewise-defined function below represents the shipping charges, $C(x)$, for packages based on the package weight, $x$ (in pounds).
+The piecewise-defined function below represents the shipping charges, $C(x)$, in US dollars based on package weight, $x$ (in pounds).
 
 $$C(x)=\begin{cases} 4.50, &  0 < x \leq 3 \\ 0.5(x-3)+4.50,  &  3 < x \le 10 \\ 0.5(x-10)^2+7.50, &  10 < x \leq 12. \end{cases}$$
 
@@ -41,11 +41,13 @@ R <- 37.855 * 0.959^t
 plot(t, R, type = "l", xlab = "Days after opening", ylab = "Daily receipts in millions of dollars")
 ```
 
-a.  Estimate the value of $f(20)$ and state its meaning in context. \vspace{4cm}
-b.  Without doing any calculations, state whether you expect $f(25)$ to be greater or less than $f(30)$. Explain how you know. \newpage
-c.  Without doing any calculations, state whether you expect the average rate of change between $t=15$ and $t=25$ to be greater or less than the average rate of change between $t=40$ and $t=80.$ Explain how you know. \vspace{4cm}
+a.  Use the graph to estimate the value of $f(15)$ and state its meaning in context. \vspace{4cm}
+b.  Without doing any calculations, state whether you expect $f(25)$ to be greater or less than $f(35)$. Explain how you know. \newpage
+c.  Without doing any calculations, state whether you expect the average rate of change between $t=10$ and $t=25$ to be greater or less than the average rate of change between $t=25$ and $t=40.$ Explain how you know. \vspace{4cm}
 d.  Without doing any calculations, state whether you expect $f'(30)$ to be negative or positive. Explain how you know. \vspace{4cm}
-e.  Without doing any calculations, state whether you expect $f''(30)$ to be positive or negative. Explain how you know. \newpage
+e.  Without doing any calculations, state whether you expect $f''(30)$ to be positive or negative. Explain how you know. \vspace{4cm}
+f. Let $f(20)=16.4$ and $f(30)=10.8$. Use these values to estimate $g'(25)$. Interpret your answer in context.
+\newpage
 
 ## Question 3
 
