@@ -1,0 +1,65 @@
+---
+title: "Exam 2 Review"
+format:
+  html: default
+  pdf: default
+---
+
+## Question 1
+
+For each of the following functions, find $f'(x).$ You do not need to simplify the expressions for $f'(x)$.
+
+a. $f(x) = 3x^{7} + 5x - 7$
+\vspace{1in}
+b. $f(x) = \frac{x^2+4}{x^2-4}$
+\vspace{1.5in}
+c. $f(x) = 3e^{x^3}$
+\vspace{1.5in}
+d. $f(x) = x^2e^{2x}$
+
+
+\newpage
+
+## Question 2
+
+At what point is the tangent line to the curve $f(x) = x^3 - 3x^2 + 4$ horizontal?
+
+\newpage
+
+## Question 3
+Consider the function $f(x)=\frac{1}{3} x^3 -2x^2 +3x$. Find the critical values of $f(x)$. Use the first derivative test to find the local minimum and maximum of the function. 
+\newpage
+
+## Question 4
+
+Suppose a company models its profit $P$ in thousands of dollars as a function of the number of units (in hundreds) sold $x$ using the function $P(x) = x^3 - 6x^2 + 9x.$
+
+a) Find $P(2)$ and interpret its meaning in context.
+\vspace{1in}
+b) Find $P'(2)$ and interpret its meaning in context.
+\vspace{1in}
+c) Using the first or second derivative test, find the production level that maximizes the profit. What is the maximum profit made?
+\vspace{2.6in}
+d) If the company must produce a minimum of 100 units and a maximum of 500 units per day, find the absolute minimum and maximum profit made in that range.
+
+\newpage
+
+## Question 5
+
+A herring swimming along a straight line has traveled $s(t)=\frac{t^2}{t^2+2}$ feet in $t$ seconds. 
+
+a) How fast is the herring travelling after 2 seconds?.
+\vspace{2in}
+b) How far has the herring traveled after 3 seconds?
+\vspace{2in}
+c) At three seconds, is the herring speeding up or slowing down? Justify your answer.
+
+\newpage
+## Question 6
+Owners of a car rental company have determined that if they charge customers $p$ dollars per day to rent a car, where $0\leq p\leq 200$ the number of cars $n$ they rent per day can be modeled by the linear function $n(p)=100-5p$. If they charge \$50 per day or less, they will rent all their cars. If they charge \$200 per day or more, they will not rent any cars. Assuming the owners plan to charge customers between \$50 per day and \$200 per day to rent a car, use the calculus tools learned in the course to find how much they should charge to maximize their revenue.
+ 
+
+
+
+
+

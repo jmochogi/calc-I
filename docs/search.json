@@ -538,5 +538,82 @@
       "Course information",
       "Support"
     ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html",
+    "href": "exam-review/exam-2-review.html",
+    "title": "Exam 2 Review",
+    "section": "",
+    "text": "For each of the following functions, find \\(f'(x).\\) You do not need to simplify the expressions for \\(f'(x)\\).\n\n\\(f(x) = 3x^{7} + 5x - 7\\) \n\\(f(x) = \\frac{x^2+4}{x^2-4}\\) \n\\(f(x) = 3e^{x^3}\\) \n\\(f(x) = x^2e^{2x}\\)",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-1",
+    "href": "exam-review/exam-2-review.html#question-1",
+    "title": "Exam 2 Review",
+    "section": "",
+    "text": "For each of the following functions, find \\(f'(x).\\) You do not need to simplify the expressions for \\(f'(x)\\).\n\n\\(f(x) = 3x^{7} + 5x - 7\\) \n\\(f(x) = \\frac{x^2+4}{x^2-4}\\) \n\\(f(x) = 3e^{x^3}\\) \n\\(f(x) = x^2e^{2x}\\)",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-2",
+    "href": "exam-review/exam-2-review.html#question-2",
+    "title": "Exam 2 Review",
+    "section": "Question 2",
+    "text": "Question 2\nAt what point is the tangent line to the curve \\(f(x) = x^3 - 3x^2 + 4\\) horizontal?",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-3",
+    "href": "exam-review/exam-2-review.html#question-3",
+    "title": "Exam 2 Review",
+    "section": "Question 3",
+    "text": "Question 3\nConsider the function \\(f(x)=\\frac{1}{3} x^3 -2x^2 +3x\\). Find the critical values of \\(f(x)\\). Use the first derivative test to find the local minimum and maximum of the function.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-4",
+    "href": "exam-review/exam-2-review.html#question-4",
+    "title": "Exam 2 Review",
+    "section": "Question 4",
+    "text": "Question 4\nSuppose a company models its profit \\(P\\) in thousands of dollars as a function of the number of units (in hundreds) sold \\(x\\) using the function \\(P(x) = x^3 - 6x^2 + 9x.\\)\n\nFind \\(P(2)\\) and interpret its meaning in context. \nFind \\(P'(2)\\) and interpret its meaning in context. \nUsing the first or second derivative test, find the production level that maximizes the profit. What is the maximum profit made? \nIf the company must produce a minimum of 100 units and a maximum of 500 units per day, find the absolute minimum and maximum profit made in that range.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-5",
+    "href": "exam-review/exam-2-review.html#question-5",
+    "title": "Exam 2 Review",
+    "section": "Question 5",
+    "text": "Question 5\nA herring swimming along a straight line has traveled \\(s(t)=\\frac{t^2}{t^2+2}\\) feet in \\(t\\) seconds.\n\nHow fast is the herring travelling after 2 seconds?. \nHow far has the herring traveled after 3 seconds? \nAt three seconds, is the herring speeding up or slowing down? Justify your answer.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-6",
+    "href": "exam-review/exam-2-review.html#question-6",
+    "title": "Exam 2 Review",
+    "section": "Question 6",
+    "text": "Question 6\nOwners of a car rental company have determined that if they charge customers \\(p\\) dollars per day to rent a car, where \\(0\\leq p\\leq 200\\) the number of cars \\(n\\) they rent per day can be modeled by the linear function \\(n(p)=100-5p\\). If they charge $50 per day or less, they will rent all their cars. If they charge $200 per day or more, they will not rent any cars. Assuming the owners plan to charge customers between $50 per day and $200 per day to rent a car, use the calculus tools learned in the course to find how much they should charge to maximize their revenue.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
   }
 ]
