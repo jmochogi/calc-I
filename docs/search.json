@@ -588,7 +588,7 @@
     "href": "exam-review/exam-2-review.html#question-4",
     "title": "Exam 2 Review",
     "section": "Question 4",
-    "text": "Question 4\nSuppose a company models its profit \\(P\\) in thousands of dollars as a function of the number of units (in hundreds) sold \\(x\\) using the function \\(P(x) = x^3 - 6x^2 + 9x.\\)\n\nFind \\(P(2)\\) and interpret its meaning in context. \nFind \\(P'(2)\\) and interpret its meaning in context. \nUsing the first or second derivative test, find the production level that maximizes the profit. What is the maximum profit made? \nIf the company must produce a minimum of 100 units and a maximum of 500 units per day, find the absolute minimum and maximum profit made in that range.",
+    "text": "Question 4\nSuppose a company models its profit \\(P\\) in thousands of dollars as a function of the number of units (in hundreds) sold \\(x\\) using the function \\(P(x) = x^3 - 6x^2 + 9x.\\)\n\nFind \\(P(2)\\) and interpret its meaning in context. \nFind \\(P'(2)\\) and interpret its meaning in context. \nUsing the first or second derivative test, find the production level that maximizes the profit if the company produces between 0 and 350 units. What is the maximum profit made? \nIf the company must produce a minimum of 50 units and a maximum of 500 units per day, find the absolute minimum and maximum profit made in that range.",
     "crumbs": [
       "Exam review",
       "Exam 2"

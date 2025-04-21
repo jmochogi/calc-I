@@ -38,9 +38,9 @@ a) Find $P(2)$ and interpret its meaning in context.
 \vspace{1in}
 b) Find $P'(2)$ and interpret its meaning in context.
 \vspace{1in}
-c) Using the first or second derivative test, find the production level that maximizes the profit. What is the maximum profit made?
+c) Using the first or second derivative test, find the production level that maximizes the profit if the company produces between 0 and 350 units. What is the maximum profit made?
 \vspace{2.6in}
-d) If the company must produce a minimum of 100 units and a maximum of 500 units per day, find the absolute minimum and maximum profit made in that range.
+d) If the company must produce a minimum of 50 units and a maximum of 500 units per day, find the absolute minimum and maximum profit made in that range.
 
 \newpage
 
